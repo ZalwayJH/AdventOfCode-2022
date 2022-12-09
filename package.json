@@ -4,7 +4,7 @@
   "description": "adventOfCodeQuiz",
   "main": "index.js",
   "scripts": {
-    "test": "node AdventOfCode-day2.js"
+    "test": "node AdventOfCode-day3.js"
   },
   "repository": {
     "type": "git",
